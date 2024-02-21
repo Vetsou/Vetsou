@@ -19,8 +19,8 @@
 
 <div align="left">
   <h3>Github</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cuir0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Languages" width="320" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cuir0&theme=tokyonight" alt="Streak" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vetsou&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Languages" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vetsou&theme=tokyonight" alt="Streak" width="450"/>
 </div>
 
 <div align="left">
