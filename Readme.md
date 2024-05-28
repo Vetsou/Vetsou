@@ -1,5 +1,3 @@
-## Hi there 👋
-
 #### 💻 Programming languages:
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=F7DF1E&logoColor=000000&style=flat-square)
 ![Typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=007ACC&logoColor=FFFFFF&style=flat-square)
