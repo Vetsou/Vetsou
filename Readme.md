@@ -11,7 +11,7 @@
 ![Zig](https://img.shields.io/static/v1?logo=zig&label=&message=Zig&color=000000&logoColor=f2a31c&style=flat-square)
 
 #### 🛠️ Frameworks:
-![Raylib](https://img.shields.io/static/v1?logo=raylib&label=&message=raylib&color=000000&logoColor=white&style=flat-square)
+![Raylib](https://img.shields.io/static/v1?logo=raylib&label=&message=Raylib&color=000000&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=0A79A8&logoColor=white&style=flat-square)
 ![Svelte](https://img.shields.io/static/v1?logo=svelte&label=&message=Svelte&color=D63200&logoColor=white&style=flat-square)
 ![Three.js](https://img.shields.io/static/v1?logo=three.js&label=&message=Three.js&color=000000&logoColor=white&style=flat-square)
@@ -24,5 +24,5 @@
 
 <div align="left">
   <h3>LeetCode</h3>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Cuir0&theme=dark" alt="LeetCode" />
+  <img src="https://leetcode-stats.vercel.app/api?username=Vetsou&theme=Raspberry" alt="LeetCode" />
 </div>
