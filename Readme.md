@@ -9,6 +9,7 @@
 ![Golang](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=0088B6&logoColor=FFFFFF&style=flat-square)
 ![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=FFFFFF&logoColor=000000&style=flat-square)
 ![Zig](https://img.shields.io/static/v1?logo=zig&label=&message=Zig&color=000000&logoColor=f2a31c&style=flat-square)
+![Odin](https://img.shields.io/static/v1?logo=odin&label=&message=Odin&color=000000&style=flat-square)
 
 #### 🛠️ Frameworks:
 ![Raylib](https://img.shields.io/static/v1?logo=raylib&label=&message=Raylib&color=000000&logoColor=white&style=flat-square)
