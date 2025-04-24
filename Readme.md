@@ -23,5 +23,5 @@
 
 <div align="left">
   <h3>LeetCode</h3>
-  <img src="https://leetcode-stats.vercel.app/api?username=Vetsou&theme=Raspberry" alt="LeetCode" />
+  <img src="https://leetcard.jacoblin.cool/Vetsou?theme=transparent" alt="LeetCode" />
 </div>
